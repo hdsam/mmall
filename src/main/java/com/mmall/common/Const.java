@@ -17,7 +17,7 @@ public class Const {
 	
 	public interface Cart{
 		int CHECKED=1;	//商品选中
-		int UN_CHECKED=0 //商品为选中
+		int UN_CHECKED=0 ;//商品为选中
 		
 	}
 	
